@@ -1,2 +1,2 @@
-# core-stash
-Simple data stash
+# Data stashing
+Interface and trivial in-memory implementation

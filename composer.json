@@ -1,0 +1,21 @@
+{
+    "name": "jigius/core-stash",
+    "description": "Data stashing. Interface and trivial in-memory implementation",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jigius",
+            "email": "jigius@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Core\\Stash\\": "src/"
+        }
+    }
+}
